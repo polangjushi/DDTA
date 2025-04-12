@@ -2,8 +2,8 @@
 Droplet Detection and Tracking in Complex Motions: A Deep Learning-based Approach
 
 - **Demo Preview**
-  ![Demo Results](reults/reults.png)
-
+ <img src="results/results.png" width="600">
+ 
 ## Features
 
 - **Image Analysis**
