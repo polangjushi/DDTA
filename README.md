@@ -25,8 +25,9 @@ Droplet Detection and Tracking in Complex Motions: A Deep Learning-based Approac
 
 ### Prerequisites
 - Python 3.8+
-- NVIDIA GPU recommended (CUDA 11.3+)
-- [Anaconda](https://www.anaconda.com/products/distribution) (optional)
+- NVIDIA GPU (recommended) + (CUDA 11.3+)
+- PyTorch 1.12.0+
+- OpenCV 4.5.4+
 
 ### Setup
 ```bash
