@@ -1,7 +1,6 @@
 # DDTA
 Droplet Detection and Tracking in Complex Motions: A Deep Learning-based Approach
 
-
 ## Features
 
 - **Image Analysis**
@@ -47,7 +46,7 @@ pip install -r requirements.txt
 # Download pretrained weights
 mkdir weights
 wget -P weights https://github.com/ultralytics/yolov5/releases/download/v6.1/yolov5m.pt
+```
 
 ### Results Preview
  <img src="results/result.png" width="600">
- 
