@@ -1,6 +1,9 @@
 # DDTA
 Droplet Detection and Tracking in Complex Motions: A Deep Learning-based Approach
 
+## Abstract
+In the realm of chemical engineering, solvent extraction is pivotal for separating valuable components from mixtures. Precise understanding of droplet dynamics is crucial for enhancing extraction column efficiency. However, analyzing dispersed-phase droplets during solvent extraction operations remains challenging due to their complex motions and interactions.This study proposes an enhanced model for droplet detection and tracking in complex motions. Building upon the YOLOv5s object detection framework, we refine the model to accurately detect droplets and recognize their size characteristics. Additionally, we integrate YOLOv5s with the OC-SORT algorithm to develop a robust droplet tracking model capable of tracing nonlinear droplet motion trajectories under both pulsed and non-pulsed conditions.   Experimental results demonstrate that our approach achieves high accuracy and faster detection speeds, with a detection accuracy of 0.977 and a 40\% increase in speed compared to the original model. This study not only validates the effectiveness of our model through manual labeling but also provides a solid foundation for further research into the complex fluid dynamics in extraction columns.
+
 ## Features
 
 - **Image Analysis**
